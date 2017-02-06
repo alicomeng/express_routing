@@ -1,0 +1,15 @@
+{
+  "name": "express_routing_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "*"
+  },
+  "author": "Ali Tayeh",
+  "license": "ISC"
+}
